@@ -1,4 +1,6 @@
 #!/bin/bash
+# TODO: There has to be a better way than this
+
 # Nextcloud (2021-02-05)
 rm nextcloud.apk https://f-droid.org/repo/com.nextcloud.client_30150090.apk
 wget -O nextcloud.apk 
