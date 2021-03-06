@@ -2,8 +2,8 @@
 # TODO: There has to be a better way than this
 
 # Nextcloud (2021-02-05)
-rm nextcloud.apk https://f-droid.org/repo/com.nextcloud.client_30150090.apk
-wget -O nextcloud.apk 
+rm nextcloud.apk 
+wget -O nextcloud.apk https://f-droid.org/repo/com.nextcloud.client_30150090.apk
 # DAVx⁵ (2021-01-14)
 rm davdroid.apk
 wget -O davdroid.apk https://f-droid.org/repo/at.bitfire.davdroid_303080002.apk
