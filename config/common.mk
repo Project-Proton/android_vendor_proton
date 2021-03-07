@@ -29,3 +29,6 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 # Bootanimation
 PRODUCT_COPY_FILES += \
     vendor/proton/bootanimation/bootanimation.zip:system/product/media/bootanimation.zip
+
+PRODUCT_PACKAGES += \
+    bromite-webview
