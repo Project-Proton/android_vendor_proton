@@ -14,7 +14,7 @@
 # limitations under the License.
 
 # Prebuilds
-include vendor/proton/prebuild/pre.mk
+include vendor/proton/prebuilt/pre.mk
 
 # Versioning
 VERSION := v1
