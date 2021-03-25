@@ -3,7 +3,7 @@
 
 # Nextcloud (2021-03-17)
 rm nextcloud.apk 
-wget -O https://f-droid.org/repo/it.niedermann.nextcloud.deck_1015005.apk
+wget -O nextcloud.apk https://f-droid.org/repo/it.niedermann.nextcloud.deck_1015005.apk
 # DAVx⁵ (2021-03-01)
 rm davdroid.apk
 wget -O davdroid.apk https://f-droid.org/repo/at.bitfire.davdroid_303090004.apk
