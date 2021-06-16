@@ -17,7 +17,7 @@
 include vendor/proton/prebuilt/pre.mk
 
 # Versioning
-VERSION := v1
+VERSION := Odin
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
 	ro.proton.version=$(VERSION)
 
